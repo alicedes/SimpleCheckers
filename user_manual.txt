@@ -1,0 +1,9 @@
+User manual of simplified checkers
+
+To start the game just run the main file.
+The game works as follow:
+    Change your name and choose your color. Blue starts first.
+    After clicking on a piece of your color the allowed moves are shown by a blue dot, click on the blue dot to make the move.
+    Your piece can only go diagonally forward in the direction of your enemy. You can capture an enemy's piece by jumping diagonally over it.
+    Your goal is to reach the other side of the board while keeping the enemy from raeching yours.
+    When the games end the game will automatically go back to the menu.
